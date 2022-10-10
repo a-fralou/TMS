@@ -1,6 +1,6 @@
 import '@popperjs/core';
-import Modal from 'bootstrap/js/dist/modal';
+import 'bootstrap';
 
-const confirmModal = new Modal(document.getElementById('staticBackdrop'), {});
+// const confirmModal = new Modal(document.getElementById('staticBackdrop'), {});
 
-confirmModal.show()
+// confirmModal.show()
