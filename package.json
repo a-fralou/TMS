@@ -1,0 +1,26 @@
+{
+  "name": "tms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-fralou/TMS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-fralou/TMS/issues"
+  },
+  "homepage": "https://github.com/a-fralou/TMS#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "parcel": "^2.7.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0"
+  }
+}
